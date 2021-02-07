@@ -1,4 +1,4 @@
-//
+//https://github.com/codershuvo/basic-js
 
 
 function kilometerToMeter (kilometer) {
@@ -15,8 +15,6 @@ function kilometerToMeter (kilometer) {
 
 
 
-
-
 function budgetCalculator (watch, phone, laptop) {
     if (watch < 0 || phone < 0 || laptop < 0) { // decrease (-) value 
         return "Eror !";  
@@ -25,8 +23,6 @@ function budgetCalculator (watch, phone, laptop) {
         return (watch * 50) + (phone * 100) + (laptop * 500);   // watch price $50 and phone price $100 and laptop price $500
     }
 }
-
-
 
 
 
